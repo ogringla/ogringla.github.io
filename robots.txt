@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogringla.github.io/sitemap.html.gz
+Sitemap: https://ogringla.github.io/app/sitemap.html.gz
+Sitemap: https://ogringla.github.io/assets/sitemap.html.gz
+Sitemap: https://ogringla.github.io/css/sitemap.html.gz
+Sitemap: https://ogringla.github.io/includes/sitemap.html.gz
+Sitemap: https://ogringla.github.io/item/sitemap.html.gz
+Sitemap: https://ogringla.github.io/src/sitemap.html.gz
